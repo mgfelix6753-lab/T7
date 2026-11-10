@@ -1,0 +1,7 @@
+python-telegram-bot
+aiohttp
+ddddocr
+opencv-python
+numpy
+aiohttp_socks
+requests
