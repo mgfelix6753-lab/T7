@@ -31,10 +31,10 @@ BOT_TOKEN = "9107883692:AAFt6szeZgSqy9aAh8xpdFlmaPPwxWfcSc8"
 SUPER_ADMIN_ID = 8702460710
 ADMIN_IDS = [SUPER_ADMIN_ID]
 
-TIMEOUT_SEC = 20
+TIMEOUT_SEC = 30
 MAX_CODES_PER_SID = 999999
 MAX_CODES_PER_SESSION = 999999
-NUM_WORKERS = 600  # မြန်ဆန်စေရန် Worker အရေအတွက်ကို ၆၀၀ သို့ တိုးမြှင့်ထားသည်
+NUM_WORKERS = 300  # မြန်ဆန်စေရန် Worker အရေအတွက်ကို ၃၀၀ သို့ တိုးမြှင့်ထားသည်
 
 PORTAL_URL_PATH = "portal_url_"
 PROXY_FILE = "proxies.txt"
